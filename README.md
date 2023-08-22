@@ -1,7 +1,7 @@
 ###    Eai meu querido! Eu sou o MatheusOkamura, Estudante / Programador!
 - 🔭 Dev de jogos e pretendo mexer com inteligência artificial futuramente
 - 🌱 Estudante de Data Science na Faculdade IBMEC SP
-- 👯 Dev do GMMS Studios, Contrato Scripters/Builders especializados em Blender e Luau 
+- 👯 CEO do GMMS Studios, Contrato Scripters/Builders especializados em Blender e Luau 
 - 📫 Email: yamamoto_matheus@hotmail.com / Instagram: @matheussyo / Discord: m.s.y
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Encontraram uma baleia com escoliose na espanha (Bizarro)
