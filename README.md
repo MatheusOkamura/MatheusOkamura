@@ -1,4 +1,4 @@
-###    Eai meu querido! Eu sou o MatheusOkamura, Estudante / Programador!
+###    MatheusOkamura, Estudante / Programador!
 - 🔭 Dev de jogos e pretendo mexer com inteligência artificial futuramente
 - 🌱 Estudante de Data Science na Faculdade IBMEC SP
 - 👯 CEO do GMMS Studios, Contrato Scripters/Builders especializados em Blender e Luau 
