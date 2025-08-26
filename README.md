@@ -2,8 +2,6 @@
 - 🔭 Dev de jogos e pretendo mexer com inteligência artificial futuramente
 - 🌱 Estudante de Data Science na Faculdade IBMEC SP
 - 📫 Email: yamamoto_matheus@hotmail.com / Instagram: @matheussyo / Discord: m.s.y
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Encontraram uma baleia com escoliose na espanha (Bizarro)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOkamura&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOkamura&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
